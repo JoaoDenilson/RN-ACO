@@ -1,0 +1,9 @@
+[tool]
+[tool.poetry]
+name = "root"
+version = "0.0.0"
+authors = ["João Denilson <denilsonsantos021@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "*"
+matplotlib = "*"
