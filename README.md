@@ -1,2 +1,2 @@
 # ACO
-ACO - Otimização de colônias de formigas
+ACO - Algoritmo de otimização de colônias de formigas
